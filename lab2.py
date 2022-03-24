@@ -10,8 +10,8 @@ slownik = {"FAQ": "frequently asked questions", "DIY": "do it yourself", "IMO": 
            "BRB": "be right back", "ASAP": "as soon as possible"}
 print(slownik)
 # Zad3
-slownik = {1:"Valorant", 2:"League of Legends", 3:"Fortnite", 4:"Grand Theft Auto V",
-5:"Lost Ark", 6:"Rocket League", 7:"Counter-Strike: Global Offensive", 8:"Wiedźmin 3: Dziki Gon"}
+slownik = {"Val":"Valorant", "LOL":"League of Legends", "Fort":"Fortnite", "GTA V":"Grand Theft Auto V",
+"LA":"Lost Ark", "RL":"Rocket League", "CSGO":"Counter-Strike: Global Offensive", "Wiedźmin":"Wiedźmin 3: Dziki Gon"}
 print(slownik)
 print(len(slownik))
 # Zad4
