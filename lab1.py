@@ -57,11 +57,11 @@ print(txt.count("la"))
 txt= "ala ma kota"
 print(txt[1], txt[10])
 # Zad.8
-txt = "ala ma kota"
+txt = "la la la la la la la na na na na na \n la la na na la la la la la na na na na na"
 print(txt.split( ))
 # Zad.9
 a = "Adam"
 b = 5.6
-c = 0x10
-print("{}, {} " .format(a, b), hex(c))
-# do poprawy 9
+c = hex(16)
+d = 16
+print("{0:s}, {1:f}, {2:s}, {3:X}" .format(a, b, c, d))
