@@ -55,8 +55,10 @@ print("Liczby podniesione do kwadratu:")
 print(wynik)
 # Zad8
 liczby = []
+i = 1
 
-for x in range (0, 10):
+while i<=10:
+    i += 1
     liczba = input("Podaj liczbę:")
     if int(liczba) % 2 == 0:
         liczby.append(liczba)
