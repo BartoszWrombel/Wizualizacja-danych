@@ -96,3 +96,8 @@ print(liczby)
 with open("liczby.txt", "w") as plik:
     plik.writelines(str(liczby))
 
+# Zad11
+with open("liczby.txt", "r") as plik:
+    for linia in plik:
+        print(linia)
+
