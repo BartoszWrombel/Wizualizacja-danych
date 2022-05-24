@@ -80,9 +80,14 @@ print(c)
 # print(n)
 # o = np.arange(12).reshape(4, 3)
 # print(o)
-# p = np.arange(12).reshape(2,6)
+# p = np.arange(12).reshape(2, 6)
 # print(p)
 # print(n.flat[0:])
 # print(o.flat[0:])
 # print(p.flat[0:])
-# tak
+# n1 = n.ravel()
+# o1 = o.ravel()
+# p1 = p.ravel()
+# print(n1, o1, p1)
+# # tak
+
