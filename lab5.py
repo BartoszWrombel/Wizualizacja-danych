@@ -37,13 +37,13 @@ print(c)
 # print(i)
 # a = np.sin(i)
 # print(a)
-
+#
 # # Zad6
 # j = np.arange(6, 12).reshape(2, 3)
 # print(j)
 # b = np.cos(j)
 # print(b)
-
+#
 # # Zad7
 # c = a+b
 # print(c)
